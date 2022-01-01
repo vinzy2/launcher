@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hENP4BF9ycve6toqByP4lVtG1nNsJV62hT/CKe5WDOKDulzSg7I+zjDo1aYymSz69KKwDo6XhtjY/c91yv0GKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shawn\\Documents\\vsProjects\\mydev-launcher\\mydev-launcher\\mydev-launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shawn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
