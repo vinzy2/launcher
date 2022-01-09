@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ebd35c0-1b9c-4015-980e-2e33c3a1e5c7": {
+      "ProjectGuid": "4ebd35c0-1b9c-4015-980e-2e33c3a1e5c7",
+      "DisplayName": "mydev-launcher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
